@@ -47,7 +47,6 @@ Regardless of the success or failure of the renewal or the execution of the scri
 - Email of robot: Used to send notification emails.
 - Your email: Used to receive notification emails sent by robots.
 - VPS: Any server can be used. The system recommends `Centos7`, and the PHP version must be` php7.1` or above.
-- No more
 
 ### 📪  Setting up Gmail
 ***
